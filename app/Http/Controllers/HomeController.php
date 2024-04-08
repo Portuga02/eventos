@@ -10,23 +10,166 @@ class HomeController extends Controller
     {
         return view('administrativo.home');
     }
+    
+}class HomeController extends Controller
+{
     public function index()
     {
         return view('administrativo.home');
-    } public function index()
-    {
-        return view('administrativo.home');
-    } public function index()
-    {
-        return view('administrativo.home');
-    } public function index()
-    {
-        return view('administrativo.home');
-    } public function index()
-    {
-        return view('administrativo.home');
-    } public function index()
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
     {
         return view('administrativo.home');
     }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
+}class HomeController extends Controller
+{
+    public function index()
+    {
+        return view('administrativo.home');
+    }
+    
 }
