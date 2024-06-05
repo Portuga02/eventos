@@ -1,4 +1,4 @@
-@extends('site.header')
+@extends('header')
 
 @section('conteudo')
     <div class="col-sm-12">

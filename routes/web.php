@@ -6,20 +6,20 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 Route::get('/', function () {
-    return view('site.home');
+    return view('home');
 });
 Route::get('/programacao', function () {
-    return view('site.programacao');
+    return view('programacao');
 });
 Route::get('/galerias', function () {
-    return view('site.galerias');
+    return view('galerias');
 });
 Route::get('/proximos-eventos', function () {
-    return view('site.proximos-eventos');
+    return view('proximos-eventos');
 });
 Route::get('/eventos-passados', function () {
-    return view('site.eventos-passados');
+    return view('eventos-passados');
 });
 Route::get('/contatos', function () {
-    return view('site.contatos');
+    return view('contatos');
 });
