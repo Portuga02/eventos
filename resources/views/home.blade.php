@@ -1,11 +1,6 @@
 @extends('header')
 
 @section('conteudo')
-    <div class="col-sm-12">
-        <p class="text-start">Pagina de home</p>
-    </div>
-
-
     <header data-bs-theme="dark">
         <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
             <div class="container-fluid">
@@ -23,7 +18,13 @@
                             <a class="nav-link" href="#">Link</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                            <a class="nav-link" >Disabled</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" >Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " aria-disabled="true">Registrar</a>
                         </li>
                     </ul>
                     <form class="d-flex" role="search">
@@ -98,7 +99,7 @@
 
 
         <!-- Marketing messaging and featurettes
-                ================================================== -->
+                        ================================================== -->
         <!-- Wrap the rest of the page in another container to center all the content. -->
 
         <div class="container marketing">
@@ -220,7 +221,7 @@
             </p>
         </footer>
     </main>
-   
+
 
     </body>
 
