@@ -21,7 +21,7 @@
                             <a class="nav-link" >Disabled</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" >Login</a>
+                            <a class="nav-link" >{{ 'Login' }}</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link " aria-disabled="true">Registrar</a>
