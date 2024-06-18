@@ -10,4 +10,23 @@ class HomeController extends Controller
     {
         return view('administrativo.home');
     }
+    public function index()
+    {
+        return view('administrativo.home');
+    } public function index()
+    {
+        return view('administrativo.home');
+    } public function index()
+    {
+        return view('administrativo.home');
+    } public function index()
+    {
+        return view('administrativo.home');
+    } public function index()
+    {
+        return view('administrativo.home');
+    } public function index()
+    {
+        return view('administrativo.home');
+    }
 }
