@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 // Route::get('/', function () {
@@ -22,4 +23,8 @@ Route::get('/eventos-passados', function () {
 });
 Route::get('/contatos', function () {
     return view('contatos');
+});
+Route::group(['prefix' => 'admin'], function () {
+    Route::get('/', [HomeController::class,'index']);
+
 });
