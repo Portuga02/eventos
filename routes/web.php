@@ -26,5 +26,6 @@ Route::get('/contatos', function () {
 });
 Route::group(['prefix' => 'admin'], function () {
     Route::get('/', [HomeController::class,'index']);
+    Route::get('/', [HomeController::class,'pessoas']);
 
 });
